@@ -1,0 +1,7 @@
+/mnt/c/Users/User/Desktop/ejercitacion-trie/ejercitacion-trie/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/User/Desktop/ejercitacion-trie/ejercitacion-trie/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/User/Desktop/ejercitacion-trie/ejercitacion-trie/src/CMakeFiles/correrValgrind.dir
+/mnt/c/Users/User/Desktop/ejercitacion-trie/ejercitacion-trie/src/CMakeFiles/correrTests_ext.dir
+/mnt/c/Users/User/Desktop/ejercitacion-trie/ejercitacion-trie/src/CMakeFiles/correrTests.dir
+/mnt/c/Users/User/Desktop/ejercitacion-trie/ejercitacion-trie/src/CMakeFiles/gtest_main.dir
+/mnt/c/Users/User/Desktop/ejercitacion-trie/ejercitacion-trie/src/CMakeFiles/gtest.dir

@@ -1,0 +1,6 @@
+/mnt/c/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/build/CMakeFiles/correrValgrind.dir
+/mnt/c/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/build/CMakeFiles/correrTests.dir
+/mnt/c/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/build/CMakeFiles/gtest_main.dir
+/mnt/c/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/build/CMakeFiles/gtest.dir

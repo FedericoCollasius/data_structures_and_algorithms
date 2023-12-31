@@ -1,0 +1,6 @@
+C:/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/gtest.dir
+C:/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/gtest_main.dir
+C:/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/correrTests.dir
+C:/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/correrValgrind.dir
+C:/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Algos 2/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
